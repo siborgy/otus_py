@@ -1,2 +1,5 @@
 # otus_py
-lessons
+![otus_label](/misc/otus_label.jpg)
+# ABOUT #
+This repository contains a student's homework for the "Python. Basic Course"
+ [Python. Basic Course](https://otus.ru/lessons/python-basic/ "Python. Basic Course")
